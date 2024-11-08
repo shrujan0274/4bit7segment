@@ -3,7 +3,7 @@ Shrujan Karthik V <br>
 Department Of Electronics And Communications Engineering<br>Sri Eshwar College Of Engineering, Coimbatore-641202<br>
 shrujanemerging@gmail.com
 # Glance
-    This combinational circuit is designed to operate the seven-segment display using its 4-bit binary/BCD input. The circuit is designed in such a way that the selective segments are only operated for a particular input by displaying the numbers exactly. This system takes 4-bit input as the signal operates the combinational circuit accordingly, and gives seven outputs ranging from A to G to control the segments A to G. The combinational circuit is designed entirely using transistors and logic gates. 
+   This combinational circuit is designed to operate the seven-segment display using its 4-bit binary/BCD input. The circuit is designed in such a way that the selective segments are only operated for a particular input by displaying the numbers exactly. This system takes 4-bit input as the signal operates the combinational circuit accordingly, and gives seven outputs ranging from A to G to control the segments A to G. The combinational circuit is designed entirely using transistors and logic gates. 
 # Block Diagram
 ![Block Diagram](https://github.com/user-attachments/assets/7074bd06-2202-4df2-9c21-15906c99d7fd)
 # Circuit Diagram Of The Controller
