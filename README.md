@@ -6,6 +6,8 @@ shrujanemerging@gmail.com
 This project investigates the design and implementation of a seven-segment display controller which is operated by 4-bit binary or BCD code input. This is a simple combinational Circuit that can also be integrated with a sequential circuit for an automation process.
 # Block Diagram
 ![Block Diagram](https://github.com/user-attachments/assets/7074bd06-2202-4df2-9c21-15906c99d7fd)
+# Circuit Diagram Of The Controller
+![Circuit](https://github.com/user-attachments/assets/db5023a9-bcc9-46c9-9364-b13172b9e05a)
 # Working Parameters
 |parameter|description|min|type|max|unit|condition|
 |---------|-----------|---|----|---|----|---------|
