@@ -42,6 +42,6 @@ Sree Vishnu Varthini S
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
 # Contact Information
 - Shrujan Karthik V <br>
-email<br>
+Email<br>
 Personal : shrujanemerging@gmail.com<br>
 College : shrujankarthik.v2023ece@sece.ac.in
