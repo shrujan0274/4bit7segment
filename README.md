@@ -4,3 +4,12 @@ Department Of Electronics And Communications Engineering<br>Sri Eshwar College O
 shrujanemerging@gmail.com
  
 This project investigates the design and implementation of a seven-segment display controller which is operated by 4-bit binary or BCD code input. This is a simple combinational Circuit that can also be integrated with a sequential circuit for an automation process.
+# Working Parameters
+|parameter|description|min|type|max|unit|condition|
+|---------|-----------|---|----|---|----|---------|
+|Technology|180nm CMOS process||||||
+|RL|Load Resistance At Input Terminals|100|||MOhm|VDD=5V Temp=27C|
+|CL|Load Capacitance At Input Terminals|||30|pf|VDD=4.5-5V Temp=30-100C RL=100M|
+|Input V|Input Voltage|0|4.5|5|Volts|Temp=27C|
+|Supply V|Supply Voltage|4.5|4.75|5|Volts|Temp=27C|
+
