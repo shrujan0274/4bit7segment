@@ -38,4 +38,8 @@ Sree Vishnu Varthini S
 - Mr.Gokulavasan B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Mr.Sakthikumar B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Dr.Shanmughasundaram N, Professor And Head, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
-
+# Contact Information
+- Shrujan Karthik V <br>
+email<br>
+Personal : shrujanemerging@gmail.com<br>
+College : shrujankarthik.v2023ece@sece.ac.in
