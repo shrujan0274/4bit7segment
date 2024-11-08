@@ -18,6 +18,7 @@ Currently, we are going to design and implement only the seven-segment display c
 |CL|Load Capacitance At Input Terminals|||30|pf|VDD=4.5-5V Temp=30-100C RL=100M|
 |Input V|Input Voltage|0|4.5|5|Volts|Temp=27C|
 |Supply V|Supply Voltage|4.5|4.75|5|Volts|Temp=27C|
+|Output V|Output Voltage|0||5|Volts|Temp=27C VDD=4.5-5V Input V=0-5V|
 
 # Issues And Improvements Made
 While designing most of the systems are designed by considering the inputs ranging from 10-15 as don’t care. While considering it as don’t care, they are also grouped in the k-map while designing. Due to the inputs ranging from 10-16, the seven-segment display shows meaningless output. That issue is solved in the current system by designing in such a way that all the seven segments should be turned off while the inputs ranging from 10-15 are given to the input. This is one of the major improvements made in the current design. This system is also useful when the BCD code converter fails and gives an invalid output the display shows nothing and the problem can be identified very easily.
