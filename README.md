@@ -38,6 +38,7 @@ Sree Vishnu Varthini S
 - Mr.Gokulavasan B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Mr.Sakthikumar B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Dr.Shanmughasundaram N, Professor And Head, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
 # Contact Information
 - Shrujan Karthik V <br>
 email<br>
