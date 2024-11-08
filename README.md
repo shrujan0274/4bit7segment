@@ -29,6 +29,7 @@ Shrujan Karthik V
 Sree Vishnu Varthini S
 # Acknowledgements
 - Sree Vishnu Varthini S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Muthu Raman S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Vijay N, Physical Design Engineer, Tech Mahindra Cerium
 - Akash E, Intern, Analog Layout Engineer, Cadence Design Systems
 - Mr.Saravanan M, Assistant Professor, Head COE-System On Chip, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
