@@ -19,3 +19,7 @@ Currently, we are going to design and implement only the seven-segment display c
 |Input V|Input Voltage|0|4.5|5|Volts|Temp=27C|
 |Supply V|Supply Voltage|4.5|4.75|5|Volts|Temp=27C|
 
+# Issues And Improvements Made
+While designing most of the systems are designed by considering the inputs ranging from 10-15 as don’t care. While considering it as don’t care, they are also grouped in the k-map while designing. Due to the inputs ranging from 10-16, the seven-segment display shows meaningless output. That issue is solved in the current system by designing in such a way that all the seven segments should be turned off while the inputs ranging from 10-15 are given to the input. This is one of the major improvements made in the current design. This system is also useful when the BCD code converter fails and gives an invalid output the display shows nothing and the problem can be identified very easily.
+# Future Works
+This system lays the foundation for the various applications that use the seven-segment display. By using a counter and clock and various other combinational and sequential circuits, a digital clock can be designed with this circuit as a base.
