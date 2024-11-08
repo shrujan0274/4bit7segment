@@ -24,6 +24,10 @@ Currently, we are going to design and implement only the seven-segment display c
 While designing most of the systems are designed by considering the inputs ranging from 10-15 as don’t care. While considering it as don’t care, they are also grouped in the k-map while designing. Due to the inputs ranging from 10-16, the seven-segment display shows meaningless output. That issue is solved in the current system by designing in such a way that all the seven segments should be turned off while the inputs ranging from 10-15 are given to the input. This is one of the major improvements made in the current design. This system is also useful when the BCD code converter fails and gives an invalid output the display shows nothing and the problem can be identified very easily.
 # Future Works
 This system lays the foundation for the various applications that use the seven-segment display. By using a counter and clock and various other combinational and sequential circuits, a digital clock can be designed with this circuit as a base.
+# References
+1. SN74LS47 - BCD-to-Seven-Segment Decoders / Drivers - Texas Instruments - https://www.ti.com/lit/ds/symlink/sn74ls47.pdf?ts=1730217589708&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LS47
+2. Design of an electronic watch M. Liakot Ali; R. Sanusi, Wan Azib Wan Adli - https://ieeexplore.ieee.org/document/1033115
+3. An Effective Approach to Designing Seven Segment Static Display Systems with Complete Character Representation - Ezekwe Chinwe Genevra, Okwu Patrick Ikechukwu, Mbonu ekene Samuel, Ude Nnaemeka Godwill - https://www.researchinventy.com/papers/v3i12/I0312050058.pdf
 # Contributors
 Shrujan Karthik V
 Sree Vishnu Varthini S
