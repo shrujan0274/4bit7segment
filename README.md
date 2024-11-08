@@ -28,13 +28,14 @@ This system lays the foundation for the various applications that use the seven-
 Shrujan Karthik V
 Sree Vishnu Varthini S
 # Acknowledgements
--Sree Vishnu Varthini S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Vijay N, Physical Design Engineer, Tech Mahindra Cerium
--Akash E, Intern, Analog Layout Engineer, Cadence Design Systems
--Mr.Saravanan M, Assistant Professor, Head COE-System On Chip, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Dr.Babu Karuppiah A, Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Mr.Tamilselvan S, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Mr.Surenderkumar S, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Mr.Gokulavasan B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--Dr.Shanmughasundaram N, Professor And Head, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
--
+- Sree Vishnu Varthini S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Vijay N, Physical Design Engineer, Tech Mahindra Cerium
+- Akash E, Intern, Analog Layout Engineer, Cadence Design Systems
+- Mr.Saravanan M, Assistant Professor, Head COE-System On Chip, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Dr.Babu Karuppiah A, Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Mr.Tamilselvan S, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Mr.Surenderkumar S, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Mr.Gokulavasan B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Mr.Sakthikumar B, Assistant Professor, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+- Dr.Shanmughasundaram N, Professor And Head, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
+
