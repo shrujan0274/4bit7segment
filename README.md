@@ -30,7 +30,7 @@ This system lays the foundation for the various applications that use the seven-
 3. An Effective Approach to Designing Seven Segment Static Display Systems with Complete Character Representation - Ezekwe Chinwe Genevra, Okwu Patrick Ikechukwu, Mbonu ekene Samuel, Ude Nnaemeka Godwill - https://www.researchinventy.com/papers/v3i12/I0312050058.pdf
 # Contributors
 Shrujan Karthik V
-Sree Vishnu Varthini S
+
 # Acknowledgements
 - Sree Vishnu Varthini S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
 - Muthu Raman S, Department of Electronics And Communication Engineering, Sri Eshwar College Of Engineering, Coimbatore
