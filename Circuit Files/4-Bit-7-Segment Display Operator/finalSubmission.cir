@@ -1,0 +1,208 @@
+* D:\hackathon\finalSubmission\finalSubmission.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 11/08/24 19:34:26
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+Map1  -A A Net-_Map1-Pad3_ Net-_Map1-Pad3_ mosfet_p		
+Man1  -A A -C -C mosfet_n		
+Mbp1  -B -C Net-_Mbp1-Pad3_ Net-_Mbp1-Pad3_ mosfet_p		
+Mbn1  -B -C -C -C mosfet_n		
+Mbp2  -C -C Net-_Mbp2-Pad3_ Net-_Mbp2-Pad3_ mosfet_p		
+Mbn2  -C -C -C -C mosfet_n		
+Mbp3  -C -C Net-_Mbp3-Pad3_ Net-_Mbp3-Pad3_ mosfet_p		
+Mbn3  -C -C -C -C mosfet_n		
+M111  Net-_M111-Pad1_ -A Net-_M111-Pad3_ Net-_M111-Pad3_ mosfet_p		
+M112  Net-_M111-Pad1_ -C Net-_M111-Pad3_ Net-_M111-Pad3_ mosfet_p		
+M121  Net-_M121-Pad1_ A Net-_M111-Pad1_ Net-_M111-Pad1_ mosfet_p		
+M122  Net-_M121-Pad1_ -B Net-_M111-Pad1_ Net-_M111-Pad1_ mosfet_p		
+M123  Net-_M121-Pad1_ -C Net-_M111-Pad1_ Net-_M111-Pad1_ mosfet_p		
+M131  Net-_M131-Pad1_ -A Net-_M121-Pad1_ Net-_M121-Pad1_ mosfet_p		
+M132  Net-_M131-Pad1_ -C Net-_M121-Pad1_ Net-_M121-Pad1_ mosfet_p		
+M133  Net-_M131-Pad1_ -C Net-_M121-Pad1_ Net-_M121-Pad1_ mosfet_p		
+M141  Net-_M1111-Pad1_ -C Net-_M131-Pad1_ Net-_M131-Pad1_ mosfet_p		
+M142  Net-_M1111-Pad1_ -B Net-_M131-Pad1_ Net-_M131-Pad1_ mosfet_p		
+M143  Net-_M1111-Pad1_ -A Net-_M131-Pad1_ Net-_M131-Pad1_ mosfet_p		
+M1211  Net-_M1111-Pad1_ A Net-_M1211-Pad3_ Net-_M1211-Pad3_ mosfet_n		
+M1221  Net-_M1211-Pad3_ -B Net-_M1221-Pad3_ Net-_M1221-Pad3_ mosfet_n		
+M1311  Net-_M1111-Pad1_ -A Net-_M1311-Pad3_ Net-_M1311-Pad3_ mosfet_n		
+M1321  Net-_M1311-Pad3_ -C Net-_M1321-Pad3_ Net-_M1321-Pad3_ mosfet_n		
+M1331  Net-_M1321-Pad3_ -C -C -C mosfet_n		
+M1411  Net-_M1111-Pad1_ -A Net-_M1411-Pad3_ Net-_M1411-Pad3_ mosfet_n		
+M1421  Net-_M1411-Pad3_ -B Net-_M1421-Pad3_ Net-_M1421-Pad3_ mosfet_n		
+M1431  Net-_M1421-Pad3_ -C -C -C mosfet_n		
+M1111  Net-_M1111-Pad1_ -A Net-_M1111-Pad3_ Net-_M1111-Pad3_ mosfet_n		
+M1121  Net-_M1111-Pad3_ -C -C -C mosfet_n		
+M1231  Net-_M1221-Pad3_ -C -C -C mosfet_n		
+M211  Net-_M211-Pad1_ -A Net-_M211-Pad3_ Net-_M211-Pad3_ mosfet_p		
+M212  Net-_M211-Pad1_ -B Net-_M211-Pad3_ Net-_M211-Pad3_ mosfet_p		
+M221  Net-_M221-Pad1_ -B Net-_M211-Pad1_ Net-_M211-Pad1_ mosfet_p		
+M222  Net-_M221-Pad1_ -C Net-_M211-Pad1_ Net-_M211-Pad1_ mosfet_p		
+M231  Net-_M231-Pad1_ -A Net-_M221-Pad1_ Net-_M221-Pad1_ mosfet_p		
+M232  Net-_M231-Pad1_ -C Net-_M221-Pad1_ Net-_M221-Pad1_ mosfet_p		
+M233  Net-_M231-Pad1_ -C Net-_M221-Pad1_ Net-_M221-Pad1_ mosfet_p		
+M241  Net-_M2111-Pad1_ -A Net-_M231-Pad1_ Net-_M231-Pad1_ mosfet_p		
+M242  Net-_M2111-Pad1_ -C Net-_M231-Pad1_ Net-_M231-Pad1_ mosfet_p		
+M243  Net-_M2111-Pad1_ -C Net-_M231-Pad1_ Net-_M231-Pad1_ mosfet_p		
+v111  Net-_Map1-Pad3_ -C 5		
+v22  Net-_Mbp1-Pad3_ -C 5		
+v33  Net-_Mbp2-Pad3_ -C 5		
+v44  Net-_Mbp3-Pad3_ -C 5		
+va1  Net-_M111-Pad3_ -C 5		
+M2111  Net-_M2111-Pad1_ -A Net-_M2111-Pad3_ Net-_M2111-Pad3_ mosfet_n		
+M2121  Net-_M2111-Pad3_ -B -C -C mosfet_n		
+M2211  Net-_M2111-Pad1_ -B Net-_M2211-Pad3_ Net-_M2211-Pad3_ mosfet_n		
+M2221  Net-_M2211-Pad3_ -C -C -C mosfet_n		
+M2311  Net-_M2111-Pad1_ -A Net-_M2311-Pad3_ Net-_M2311-Pad3_ mosfet_n		
+M2321  Net-_M2311-Pad3_ -C Net-_M2321-Pad3_ Net-_M2321-Pad3_ mosfet_n		
+M2331  Net-_M2321-Pad3_ -C -C -C mosfet_n		
+M2411  Net-_M2111-Pad1_ -A Net-_M2411-Pad3_ Net-_M2411-Pad3_ mosfet_n		
+M2421  Net-_M2411-Pad3_ -C Net-_M2421-Pad3_ Net-_M2421-Pad3_ mosfet_n		
+M2431  Net-_M2421-Pad3_ -C -C -C mosfet_n		
+vb1  Net-_M211-Pad3_ -C 5		
+M311  Net-_M311-Pad1_ -A Net-_M311-Pad3_ Net-_M311-Pad3_ mosfet_p		
+M312  Net-_M311-Pad1_ -C Net-_M311-Pad3_ Net-_M311-Pad3_ mosfet_p		
+M321  Net-_M321-Pad1_ -A Net-_M311-Pad1_ Net-_M311-Pad1_ mosfet_p		
+M322  Net-_M321-Pad1_ -C Net-_M311-Pad1_ Net-_M311-Pad1_ mosfet_p		
+M331  Net-_M331-Pad1_ -B Net-_M321-Pad1_ Net-_M321-Pad1_ mosfet_p		
+M332  Net-_M331-Pad1_ -C Net-_M321-Pad1_ Net-_M321-Pad1_ mosfet_p		
+M341  Net-_M3111-Pad1_ -A Net-_M331-Pad1_ Net-_M331-Pad1_ mosfet_p		
+M342  Net-_M3111-Pad1_ -C Net-_M331-Pad1_ Net-_M331-Pad1_ mosfet_p		
+M3111  Net-_M3111-Pad1_ -A Net-_M3111-Pad3_ Net-_M3111-Pad3_ mosfet_n		
+M3121  Net-_M3111-Pad3_ -C -C -C mosfet_n		
+M3211  Net-_M3111-Pad1_ -A Net-_M3211-Pad3_ Net-_M3211-Pad3_ mosfet_n		
+M3221  Net-_M3211-Pad3_ -C -C -C mosfet_n		
+M3311  Net-_M3111-Pad1_ -B Net-_M3311-Pad3_ Net-_M3311-Pad3_ mosfet_n		
+M3321  Net-_M3311-Pad3_ -C -C -C mosfet_n		
+M3411  Net-_M3111-Pad1_ -A Net-_M3411-Pad3_ Net-_M3411-Pad3_ mosfet_n		
+M3421  Net-_M3411-Pad3_ -C -C -C mosfet_n		
+vc1  Net-_M311-Pad3_ -C 5		
+M411  Net-_M411-Pad1_ -B Net-_M411-Pad3_ Net-_M411-Pad3_ mosfet_p		
+M412  Net-_M411-Pad1_ -C Net-_M411-Pad3_ Net-_M411-Pad3_ mosfet_p		
+M413  Net-_M411-Pad1_ -C Net-_M411-Pad3_ Net-_M411-Pad3_ mosfet_p		
+M421  Net-_M421-Pad1_ -A Net-_M411-Pad1_ Net-_M411-Pad1_ mosfet_p		
+M422  Net-_M421-Pad1_ -C Net-_M411-Pad1_ Net-_M411-Pad1_ mosfet_p		
+M423  Net-_M421-Pad1_ -C Net-_M411-Pad1_ Net-_M411-Pad1_ mosfet_p		
+M431  Net-_M431-Pad1_ A Net-_M421-Pad1_ Net-_M421-Pad1_ mosfet_p		
+M432  Net-_M431-Pad1_ -B Net-_M421-Pad1_ Net-_M421-Pad1_ mosfet_p		
+M433  Net-_M431-Pad1_ -C Net-_M421-Pad1_ Net-_M421-Pad1_ mosfet_p		
+M441  Net-_M441-Pad1_ -A Net-_M431-Pad1_ Net-_M431-Pad1_ mosfet_p		
+M442  Net-_M441-Pad1_ -B Net-_M431-Pad1_ Net-_M431-Pad1_ mosfet_p		
+M443  Net-_M441-Pad1_ -C Net-_M431-Pad1_ Net-_M431-Pad1_ mosfet_p		
+M451  Net-_M4111-Pad1_ -A Net-_M441-Pad1_ Net-_M441-Pad1_ mosfet_p		
+M452  Net-_M4111-Pad1_ -C Net-_M441-Pad1_ Net-_M441-Pad1_ mosfet_p		
+M453  Net-_M4111-Pad1_ -C Net-_M441-Pad1_ Net-_M441-Pad1_ mosfet_p		
+M454  Net-_M4111-Pad1_ -C Net-_M441-Pad1_ Net-_M441-Pad1_ mosfet_p		
+M4111  Net-_M4111-Pad1_ -B Net-_M4111-Pad3_ Net-_M4111-Pad3_ mosfet_n		
+M4121  Net-_M4111-Pad3_ -C Net-_M4121-Pad3_ Net-_M4121-Pad3_ mosfet_n		
+M4131  Net-_M4121-Pad3_ -C -C -C mosfet_n		
+M4211  Net-_M4111-Pad1_ -A Net-_M4211-Pad3_ Net-_M4211-Pad3_ mosfet_n		
+M4221  Net-_M4211-Pad3_ -C Net-_M4221-Pad3_ Net-_M4221-Pad3_ mosfet_n		
+M4231  Net-_M4221-Pad3_ -C -C -C mosfet_n		
+M4311  Net-_M4111-Pad1_ A Net-_M4311-Pad3_ Net-_M4311-Pad3_ mosfet_n		
+M4321  Net-_M4311-Pad3_ -B Net-_M4321-Pad3_ Net-_M4321-Pad3_ mosfet_n		
+M4331  Net-_M4321-Pad3_ -C -C -C mosfet_n		
+M4411  Net-_M4111-Pad1_ -A Net-_M4411-Pad3_ Net-_M4411-Pad3_ mosfet_n		
+M4421  Net-_M4411-Pad3_ -B Net-_M4421-Pad3_ Net-_M4421-Pad3_ mosfet_n		
+M4431  Net-_M4421-Pad3_ -C -C -C mosfet_n		
+M4511  Net-_M4111-Pad1_ -A Net-_M4511-Pad3_ Net-_M4511-Pad3_ mosfet_n		
+M4521  Net-_M4511-Pad3_ -C Net-_M4521-Pad3_ Net-_M4521-Pad3_ mosfet_n		
+M4531  Net-_M4521-Pad3_ -C Net-_M4531-Pad3_ Net-_M4531-Pad3_ mosfet_n		
+M4541  Net-_M4531-Pad3_ -C -C -C mosfet_n		
+vd1  Net-_M411-Pad3_ -C 5		
+M511  Net-_M511-Pad1_ -B Net-_M511-Pad3_ Net-_M511-Pad3_ mosfet_p		
+M521  Net-_M5111-Pad1_ -A Net-_M511-Pad1_ Net-_M511-Pad1_ mosfet_p		
+M512  Net-_M511-Pad1_ -C Net-_M511-Pad3_ Net-_M511-Pad3_ mosfet_p		
+M513  Net-_M511-Pad1_ -C Net-_M511-Pad3_ Net-_M511-Pad3_ mosfet_p		
+M522  Net-_M5111-Pad1_ -C Net-_M511-Pad1_ Net-_M511-Pad1_ mosfet_p		
+M523  Net-_M5111-Pad1_ -C Net-_M511-Pad1_ Net-_M511-Pad1_ mosfet_p		
+M5111  Net-_M5111-Pad1_ -B Net-_M5111-Pad3_ Net-_M5111-Pad3_ mosfet_n		
+M5121  Net-_M5111-Pad3_ -C Net-_M5121-Pad3_ Net-_M5121-Pad3_ mosfet_n		
+M5131  Net-_M5121-Pad3_ -C -C -C mosfet_n		
+M5211  Net-_M5111-Pad1_ -A Net-_M5211-Pad3_ Net-_M5211-Pad3_ mosfet_n		
+M5221  Net-_M5211-Pad3_ -C Net-_M5221-Pad3_ Net-_M5221-Pad3_ mosfet_n		
+M5231  Net-_M5221-Pad3_ -C -C -C mosfet_n		
+ve1  Net-_M511-Pad3_ -C 5		
+M611  Net-_M611-Pad1_ -A Net-_M611-Pad3_ Net-_M611-Pad3_ mosfet_p		
+M612  Net-_M611-Pad1_ -C Net-_M611-Pad3_ Net-_M611-Pad3_ mosfet_p		
+M613  Net-_M611-Pad1_ -C Net-_M611-Pad3_ Net-_M611-Pad3_ mosfet_p		
+M621  Net-_M621-Pad1_ -A Net-_M611-Pad1_ Net-_M611-Pad1_ mosfet_p		
+M622  Net-_M621-Pad1_ -C Net-_M611-Pad1_ Net-_M611-Pad1_ mosfet_p		
+M623  Net-_M621-Pad1_ -C Net-_M611-Pad1_ Net-_M611-Pad1_ mosfet_p		
+M631  Net-_M631-Pad1_ -A Net-_M621-Pad1_ Net-_M621-Pad1_ mosfet_p		
+M632  Net-_M631-Pad1_ -C Net-_M621-Pad1_ Net-_M621-Pad1_ mosfet_p		
+M633  Net-_M631-Pad1_ -C Net-_M621-Pad1_ Net-_M621-Pad1_ mosfet_p		
+M641  Net-_M6111-Pad1_ A Net-_M631-Pad1_ Net-_M631-Pad1_ mosfet_p		
+M642  Net-_M6111-Pad1_ -B Net-_M631-Pad1_ Net-_M631-Pad1_ mosfet_p		
+M643  Net-_M6111-Pad1_ -C Net-_M631-Pad1_ Net-_M631-Pad1_ mosfet_p		
+M6111  Net-_M6111-Pad1_ -A Net-_M6111-Pad3_ Net-_M6111-Pad3_ mosfet_n		
+M6121  Net-_M6111-Pad3_ -C Net-_M6121-Pad3_ Net-_M6121-Pad3_ mosfet_n		
+M6131  Net-_M6121-Pad3_ -C -C -C mosfet_n		
+M6211  Net-_M6111-Pad1_ -A Net-_M6211-Pad3_ Net-_M6211-Pad3_ mosfet_n		
+M6221  Net-_M6211-Pad3_ -C Net-_M6221-Pad3_ Net-_M6221-Pad3_ mosfet_n		
+M6231  Net-_M6221-Pad3_ -C -C -C mosfet_n		
+M6311  Net-_M6111-Pad1_ -A Net-_M6311-Pad3_ Net-_M6311-Pad3_ mosfet_n		
+M6321  Net-_M6311-Pad3_ -C Net-_M6321-Pad3_ Net-_M6321-Pad3_ mosfet_n		
+M6331  Net-_M6321-Pad3_ -C -C -C mosfet_n		
+M6411  Net-_M6111-Pad1_ A Net-_M6411-Pad3_ Net-_M6411-Pad3_ mosfet_n		
+M6421  Net-_M6411-Pad3_ -B Net-_M6421-Pad3_ Net-_M6421-Pad3_ mosfet_n		
+M6431  Net-_M6421-Pad3_ -C -C -C mosfet_n		
+vf1  Net-_M611-Pad3_ -C 5		
+M713  Net-_M711-Pad1_ -C Net-_M711-Pad3_ Net-_M711-Pad3_ mosfet_p		
+M712  Net-_M711-Pad1_ -B Net-_M711-Pad3_ Net-_M711-Pad3_ mosfet_p		
+M711  Net-_M711-Pad1_ -A Net-_M711-Pad3_ Net-_M711-Pad3_ mosfet_p		
+M723  Net-_M721-Pad1_ -C Net-_M711-Pad1_ Net-_M711-Pad1_ mosfet_p		
+M722  Net-_M721-Pad1_ -C Net-_M711-Pad1_ Net-_M711-Pad1_ mosfet_p		
+M721  Net-_M721-Pad1_ -A Net-_M711-Pad1_ Net-_M711-Pad1_ mosfet_p		
+M733  Net-_M731-Pad1_ -C Net-_M721-Pad1_ Net-_M721-Pad1_ mosfet_p		
+M732  Net-_M731-Pad1_ -C Net-_M721-Pad1_ Net-_M721-Pad1_ mosfet_p		
+M731  Net-_M731-Pad1_ -A Net-_M721-Pad1_ Net-_M721-Pad1_ mosfet_p		
+M743  Net-_M7111-Pad1_ -B Net-_M731-Pad1_ Net-_M731-Pad1_ mosfet_p		
+M742  Net-_M7111-Pad1_ -C Net-_M731-Pad1_ Net-_M731-Pad1_ mosfet_p		
+M741  Net-_M7111-Pad1_ A Net-_M731-Pad1_ Net-_M731-Pad1_ mosfet_p		
+vg1  Net-_M711-Pad3_ -C 5		
+M7411  Net-_M7111-Pad1_ A Net-_M7411-Pad3_ Net-_M7411-Pad3_ mosfet_n		
+M7311  Net-_M7111-Pad1_ -A Net-_M7311-Pad3_ Net-_M7311-Pad3_ mosfet_n		
+M7211  Net-_M7111-Pad1_ -A Net-_M7211-Pad3_ Net-_M7211-Pad3_ mosfet_n		
+M7111  Net-_M7111-Pad1_ -A Net-_M7111-Pad3_ Net-_M7111-Pad3_ mosfet_n		
+M7421  Net-_M7411-Pad3_ -B Net-_M7421-Pad3_ Net-_M7421-Pad3_ mosfet_n		
+M7321  Net-_M7311-Pad3_ -C Net-_M7321-Pad3_ Net-_M7321-Pad3_ mosfet_n		
+M7221  Net-_M7211-Pad3_ -C Net-_M7221-Pad3_ Net-_M7221-Pad3_ mosfet_n		
+M7121  Net-_M7111-Pad3_ -B Net-_M7121-Pad3_ Net-_M7121-Pad3_ mosfet_n		
+M7431  Net-_M7421-Pad3_ -C -C -C mosfet_n		
+M7331  Net-_M7321-Pad3_ -C -C -C mosfet_n		
+M7231  Net-_M7221-Pad3_ -C -C -C mosfet_n		
+M7131  Net-_M7121-Pad3_ -C -C -C mosfet_n		
+M81  PIN-A Net-_M1111-Pad1_ Net-_M81-Pad3_ Net-_M81-Pad3_ mosfet_p		
+M82  PIN-A Net-_M1111-Pad1_ -C -C mosfet_n		
+v11  Net-_M81-Pad3_ -C 5		
+M83  PIN-B Net-_M2111-Pad1_ Net-_M83-Pad3_ Net-_M83-Pad3_ mosfet_p		
+M84  PIN-B Net-_M2111-Pad1_ -C -C mosfet_n		
+v12  Net-_M83-Pad3_ -C 5		
+M85  PIN-C Net-_M3111-Pad1_ Net-_M85-Pad3_ Net-_M85-Pad3_ mosfet_p		
+M86  PIN-C Net-_M3111-Pad1_ -C -C mosfet_n		
+v13  Net-_M85-Pad3_ -C 5		
+M87  PIN-D Net-_M4111-Pad1_ Net-_M87-Pad3_ Net-_M87-Pad3_ mosfet_p		
+M88  PIN-D Net-_M4111-Pad1_ -C -C mosfet_n		
+v14  Net-_M87-Pad3_ -C 5		
+M89  PIN-E Net-_M5111-Pad1_ Net-_M89-Pad3_ Net-_M89-Pad3_ mosfet_p		
+M90  PIN-E Net-_M5111-Pad1_ -C -C mosfet_n		
+v15  Net-_M89-Pad3_ -C 5		
+M91  PIN-F Net-_M6111-Pad1_ Net-_M91-Pad3_ Net-_M91-Pad3_ mosfet_p		
+M92  PIN-F Net-_M6111-Pad1_ -C -C mosfet_n		
+v16  Net-_M91-Pad3_ -C 5		
+M93  PIN-G Net-_M7111-Pad1_ Net-_M93-Pad3_ Net-_M93-Pad3_ mosfet_p		
+M94  PIN-G Net-_M7111-Pad1_ -C -C mosfet_n		
+v17  Net-_M93-Pad3_ -C 5		
+v1s1  A -C 5		
+U1  PIN-A plot_v1		
+U2  PIN-B plot_v1		
+U3  PIN-C plot_v1		
+U4  PIN-D plot_v1		
+U5  PIN-E plot_v1		
+U6  PIN-F plot_v1		
+U7  PIN-G plot_v1		
+
+.end
